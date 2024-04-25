@@ -16,7 +16,9 @@ Here's the tech stack for the project:
 
 ### Development
 
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Gather materials mentioned in dependencies
+* Solder RFID pins to the RFID module
+* Connect the RFID scanner to the Pi
+* Test the Scanner using the read.py script
+* If the scanner is successful, download the Raspotify package (https://github.com/dtcooper/raspotify.git)
+* If music can play through the Pi, implement the player.py script. 
